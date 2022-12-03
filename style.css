@@ -630,6 +630,7 @@ p {
   border: 1px solid black;
   box-shadow: 1px 2px 1px #000;
   margin-top: 2rem;
+  display: inline-block;
 }
 
 .btn--contact:hover {
